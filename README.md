@@ -139,3 +139,15 @@ Data cleaning with pandas · groupby/aggregation · working with dates and perio
 SQLite storage, bank/UPI statement importers, recurring-expense detection, ML category classifier (Naive Bayes), budget alerts by email, receipt OCR, multi-currency
 
 > ⚠️ Educational project using synthetic data. Not financial advice.
+
+## 👩‍💻 Author
+
+**Yaswitha Kamakshi V.**
+
+B.Tech – Computer Science and Engineering
+
+GitHub: https://github.com/yaswitha-kamakshi
+
+LinkedIn: https://www.linkedin.com/in/yaswitha-kamakshi-292b5242b/
+
+---
