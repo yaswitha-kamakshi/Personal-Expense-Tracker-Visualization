@@ -1,0 +1,47 @@
+PERSONAL EXPENSE REPORT
+Month: 2026-11   Generated: 2026-11-25 11:42
+============================================================
+
+DATA CLEANING
+  rows read 124 -> kept 119 | bad dates 1, bad amounts 1, refunds/zero 1, duplicates 2, categorised by rule 4
+
+KEY NUMBERS
+  Total spend         : ₹26,998  (39 transactions)
+  Average per day     : ₹1,080  (25 of 30 days)
+  Average transaction : ₹692
+  Income / Savings    : ₹35,000 / ₹8,002  (23%)
+
+SPENDING BY CATEGORY
+  Rent                ₹    8,000
+  Shopping            ₹    6,435
+  Food & Dining       ₹    3,266
+  Groceries           ₹    2,750
+  Bills & Utilities   ₹    2,108
+  Transport           ₹    1,870
+  Health              ₹      950
+  Entertainment       ₹      899
+  Education           ₹      720
+
+BUDGET CHECK
+  Shopping            spent ₹   6,435 / ₹3,000    214%  OVER
+  Rent                spent ₹   8,000 / ₹8,000    100%  NEAR
+  Food & Dining       spent ₹   3,266 / ₹4,000     82%  NEAR
+  Transport           spent ₹   1,870 / ₹2,500     75%  OK
+  Bills & Utilities   spent ₹   2,108 / ₹3,000     70%  OK
+  Health              spent ₹     950 / ₹1,500     63%  OK
+  Entertainment       spent ₹     899 / ₹1,500     60%  OK
+  Groceries           spent ₹   2,750 / ₹5,000     55%  OK
+  Education           spent ₹     720 / ₹1,500     48%  OK
+
+INSIGHTS
+  - Highest spending category: Rent (₹8,000, 30% of spending).
+  - Spending is up 69% vs 2026-10 (month still in progress, so this is not a full comparison).
+  - At this pace you will spend about ₹32,398 by month end.
+  - Over budget in: Shopping (+₹3,435).
+  - Close to the limit: Rent, Food & Dining.
+  - Most used payment method: UPI (57% of spending).
+  - Highest-spend day: 21 Nov (₹3,123).
+  - Savings rate: 23% (healthy: 20% or more).
+
+UNUSUALLY LARGE TRANSACTIONS
+  - 01 Nov Rent: ₹8,000 (Monthly rent)

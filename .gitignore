@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# IMPORTANT: if you ever use your REAL bank/UPI statements, keep them out of Git
+data/real_*.csv
+data/my_*.csv

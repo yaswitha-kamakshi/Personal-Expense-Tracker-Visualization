@@ -1,0 +1,120 @@
+date,category,amount,payment_method,description
+2026-09-01,Rent,8000.0,Net Banking,Monthly rent
+2026-09-01,Bills & Utilities,480.0,Card,DTH recharge
+2026-09-02,Food & Dining,260.0,UPI,Cafe coffee
+2026-09-04,Entertainment,220.0,UPI,BookMyShow movie
+2026-09-04,Transport,200.0,UPI,Uber ride
+2026-09-04,Food & Dining,310.0,UPI,Restaurant lunch
+2026-09-05,Bills & Utilities,799.0,UPI,WiFi broadband
+2026-09-05,Food & Dining,169.0,Card,Restaurant lunch
+2026-09-05,Transport,190.0,UPI,Metro card recharge
+2026-09-05,Shopping,1170.0,UPI,Amazon order
+2026-09-06,Entertainment,338.0,UPI,Gaming
+2026-09-06,Food & Dining,442.0,Card,Cafe coffee
+2026-09-06,Health,310.0,Card,Doctor consultation
+2026-09-07,Food & Dining,300.0,UPI,Zomato dinner
+2026-09-08,Food & Dining,170.0,UPI,Biryani
+2026-09-08,Education,640.0,Card,Exam fee
+2026-09-09,Food & Dining,390.0,UPI,Restaurant lunch
+2026-09-10,Entertainment,649.0,Card,Netflix subscription
+2026-09-10,Food & Dining,200.0,UPI,Swiggy order
+2026-09-10,Bills & Utilities,500.0,UPI,DTH recharge
+2026-09-11,Shopping,1200.0,Cash,Amazon order
+2026-09-11,Education,510.0,Cash,Udemy course
+2026-09-12,Bills & Utilities,299.0,UPI,Mobile recharge
+2026-09-12,Groceries,250.0,UPI,Vegetables
+2026-09-12,Shopping,1365.0,UPI,Myntra clothes
+2026-09-13,Food & Dining,455.0,Cash,Zomato dinner
+2026-09-14,Food & Dining,110.0,Card,Zomato dinner
+2026-09-18,Groceries,580.0,Cash,Reliance Fresh
+2026-09-18,Transport,180.0,UPI,Rapido bike
+2026-09-20,Food & Dining,559.0,Cash,Swiggy order
+2026-09-22,Food & Dining,250.0,Cash,Zomato dinner
+2026-09-24,Health,320.0,Card,Apollo pharmacy
+2026-09-25,Health,110.0,UPI,Apollo pharmacy
+2026-09-25,Transport,220.0,UPI,Metro card recharge
+2026-09-26,Transport,220.0,UPI,Uber ride
+2026-09-27,Food & Dining,442.0,Card,Biryani
+2026-09-28,Food & Dining,310.0,UPI,Biryani
+2026-09-29,Transport,220.0,UPI,Ola cab
+2026-09-30,Food & Dining,340.0,Cash,Cafe coffee
+2026-09-30,Food & Dining,380.0,UPI,Zomato dinner
+2026-09-30,Transport,180.0,UPI,Uber ride
+2026-10-02,Shopping,1340.0,UPI,Ajio order
+2026-10-04,Food & Dining,429.0,UPI,Swiggy order
+2026-10-05,Transport,260.0,Card,Uber ride
+2026-10-05,Bills & Utilities,799.0,UPI,WiFi broadband
+2026-10-07,Health,310.0,Card,Doctor consultation
+2026-10-07,Bills & Utilities,380.0,UPI,Electricity bill
+2026-10-07,Food & Dining,410.0,Cash,Cafe coffee
+2026-10-09,Shopping,1330.0,Cash,Flipkart purchase
+2026-10-10,Entertainment,649.0,Card,Netflix subscription
+2026-10-10,Transport,60.0,UPI,Petrol
+2026-10-10,Transport,140.0,Net Banking,Uber ride
+2026-10-12,Bills & Utilities,299.0,UPI,Mobile recharge
+2026-10-13,Shopping,1120.0,UPI,Amazon order
+2026-10-15,Food & Dining,230.0,Card,Cafe coffee
+2026-10-16,Transport,60.0,UPI,Rapido bike
+2026-10-16,Transport,280.0,UPI,Rapido bike
+2026-10-17,Transport,170.0,UPI,Rapido bike
+2026-10-18,Transport,240.0,UPI,Petrol
+2026-10-19,Bills & Utilities,530.0,UPI,Electricity bill
+2026-10-19,Bills & Utilities,560.0,UPI,Electricity bill
+2026-10-19,Bills & Utilities,300.0,Card,DTH recharge
+2026-10-21,Transport,140.0,UPI,Ola cab
+2026-10-22,Food & Dining,170.0,Card,Zomato dinner
+2026-10-22,Food & Dining,200.0,UPI,Swiggy order
+2026-10-22,Food & Dining,350.0,Card,Zomato dinner
+2026-10-23,Entertainment,450.0,Cash,Cinema tickets
+2026-10-23,Food & Dining,320.0,UPI,Restaurant lunch
+2026-10-24,Food & Dining,390.0,UPI,Cafe coffee
+2026-10-24,Transport,180.0,UPI,Ola cab
+2026-10-24,Health,300.0,UPI,Gym day pass
+2026-10-25,Food & Dining,364.0,Cash,Restaurant lunch
+2026-10-26,Transport,230.0,Net Banking,Petrol
+2026-10-26,Shopping,450.0,UPI,Myntra clothes
+2026-10-26,Transport,260.0,UPI,Metro card recharge
+2026-10-27,Food & Dining,110.0,Net Banking,Swiggy order
+2026-10-28,Food & Dining,420.0,UPI,Swiggy order
+2026-10-28,Shopping,710.0,Net Banking,Myntra clothes
+2026-10-29,Transport,230.0,UPI,Ola cab
+2026-10-29,Groceries,770.0,UPI,D-Mart groceries
+2026-11-01,Rent,8000.0,Net Banking,Monthly rent
+2026-11-01,Bills & Utilities,230.0,UPI,Water bill
+2026-11-02,Transport,90.0,UPI,Ola cab
+2026-11-03,Transport,50.0,UPI,Ola cab
+2026-11-03,Education,430.0,UPI,Udemy course
+2026-11-05,Bills & Utilities,799.0,UPI,WiFi broadband
+2026-11-06,Groceries,680.0,UPI,Reliance Fresh
+2026-11-06,Food & Dining,310.0,Net Banking,Restaurant lunch
+2026-11-07,Food & Dining,156.0,UPI,Zomato dinner
+2026-11-07,Transport,250.0,Card,Metro card recharge
+2026-11-09,Groceries,690.0,UPI,D-Mart groceries
+2026-11-09,Food & Dining,390.0,UPI,Restaurant lunch
+2026-11-10,Entertainment,649.0,Card,Netflix subscription
+2026-11-10,Groceries,900.0,UPI,Big Bazaar
+2026-11-10,Entertainment,250.0,UPI,BookMyShow movie
+2026-11-11,Transport,230.0,UPI,Uber ride
+2026-11-12,Bills & Utilities,299.0,UPI,Mobile recharge
+2026-11-12,Shopping,2057.0,UPI,Flipkart purchase
+2026-11-13,Transport,250.0,UPI,Metro card recharge
+2026-11-13,Food & Dining,120.0,Net Banking,Cafe coffee
+2026-11-13,Food & Dining,210.0,Net Banking,Restaurant lunch
+2026-11-14,Transport,160.0,UPI,Uber ride
+2026-11-15,Food & Dining,559.0,Cash,Biryani
+2026-11-16,Shopping,1836.0,UPI,Myntra clothes
+2026-11-16,Bills & Utilities,600.0,UPI,DTH recharge
+2026-11-16,Health,380.0,UPI,Apollo pharmacy
+2026-11-17,Food & Dining,240.0,Cash,Zomato dinner
+2026-11-20,Groceries,480.0,Cash,Reliance Fresh
+2026-11-20,Health,570.0,UPI,Gym day pass
+2026-11-20,Transport,140.0,Card,Ola cab
+2026-11-21,Food & Dining,351.0,UPI,Restaurant lunch
+2026-11-21,Transport,230.0,Cash,Uber ride
+2026-11-21,Shopping,2542.0,UPI,Amazon order
+2026-11-22,Food & Dining,520.0,UPI,Zomato dinner
+2026-11-24,Education,290.0,Card,Udemy course
+2026-11-24,Food & Dining,410.0,UPI,Cafe coffee
+2026-11-24,Transport,200.0,Card,Uber ride
+2026-11-25,Transport,270.0,UPI,Petrol
+2026-11-25,Bills & Utilities,180.0,UPI,Electricity bill

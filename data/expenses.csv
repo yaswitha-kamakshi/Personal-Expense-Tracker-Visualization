@@ -1,0 +1,125 @@
+date,category,amount,payment_method,description
+2026-09-01,Rent,8000,Net Banking,Monthly rent
+2026-09-01,Bills & Utilities,480,Card,DTH recharge
+2026-09-02,Food & Dining,260,UPI,Cafe coffee
+2026-09-04,Entertainment,220,UPI,BookMyShow movie
+2026-09-04,Transport,200,UPI,Uber ride
+2026-09-04,Food & Dining,310,UPI,Restaurant lunch
+2026-09-05,Bills & Utilities,799,UPI,WiFi broadband
+2026-09-05,Food & Dining,169,Card,Restaurant lunch
+2026-09-05,Transport,190,UPI,Metro card recharge
+2026-09-05,Shopping,1170,UPI,Amazon order
+2026-09-06,Entertainment,338,UPI,Gaming
+2026-09-06,Food & Dining,442,Card,Cafe coffee
+2026-09-06,Health,310,Card,Doctor consultation
+2026-09-07,Food & Dining,300,UPI,Zomato dinner
+2026-09-08,Education,640,Card,Exam fee
+2026-09-08,Food & Dining,170,UPI,Biryani
+2026-09-09,Food & Dining,390,UPI,Restaurant lunch
+2026-09-10,Entertainment,649,Card,Netflix subscription
+2026-09-10,Food & Dining,200,UPI,Swiggy order
+2026-09-10,Bills & Utilities,500,UPI,DTH recharge
+2026-09-11,Shopping,1200,Cash,Amazon order
+2026-09-11,Education,510,Cash,Udemy course
+2026-09-12,Bills & Utilities,299,UPI,Mobile recharge
+2026-09-12,Groceries,250,UPI,Vegetables
+2026-09-12,Shopping,1365,UPI,Myntra clothes
+2026-09-13,Food & Dining,455,Cash,Zomato dinner
+2026-09-14,Food & Dining,110,Card,Zomato dinner
+2026-09-18,Groceries,580,Cash,Reliance Fresh
+2026-09-18,Transport,180,UPI,Rapido bike
+2026-09-20,Food & Dining,559,Cash,Swiggy order
+2026-09-22,Food & Dining,250,Cash,Zomato dinner
+2026-09-24,Health,320,Card,Apollo pharmacy
+2026-09-25,Health,110,UPI,Apollo pharmacy
+2026-09-25,Transport,220,UPI,Metro card recharge
+2026-09-26,Transport,220,UPI,Uber ride
+2026-09-27,Food & Dining,442,Card,Biryani
+2026-09-28,Food & Dining,310,UPI,Biryani
+2026-09-29,TRANSPORT,220,UPI,Ola cab
+2026-09-30,Food & Dining,340,Cash,Cafe coffee
+2026-09-30,Food & Dining,380,UPI,Zomato dinner
+2026-09-30,Transport,180,UPI,Uber ride
+not a date,Rent,8000,Net Banking,Monthly rent
+2026-10-02,,1340,UPI,Ajio order
+2026-10-04,Food & Dining,429,UPI,Swiggy order
+2026-10-05,Bills & Utilities,799,UPI,WiFi broadband
+2026-10-05,Transport,260,Card,Uber ride
+2026-10-07,Health,310,Card,Doctor consultation
+2026-10-07,Bills & Utilities,380,UPI,Electricity bill
+2026-10-07,Food & Dining,410,Cash,Cafe coffee
+2026-10-09,Shopping,1330,Cash,Flipkart purchase
+2026-10-10,Entertainment,649,Card,Netflix subscription
+2026-10-10,,60,UPI,Petrol
+2026-10-10,Transport,140,Net Banking,Uber ride
+2026-10-12,Bills & Utilities,₹299,upi,Mobile recharge
+2026-10-13,Shopping,1120,UPI,Amazon order
+2026-10-15,Food & Dining,230,Card,Cafe coffee
+2026-10-16,transport ,60,UPI,Rapido bike
+2026-10-16,Transport,280,UPI,Rapido bike
+2026-10-17,Transport,170,UPI,Rapido bike
+2026-10-18,Transport,240,UPI,Petrol
+2026-10-19,Bills & Utilities,560,UPI,Electricity bill
+2026-10-19,,300,Card,DTH recharge
+2026-10-19,Bills & Utilities,530,UPI,Electricity bill
+2026-10-21,Transport,140,UPI,Ola cab
+2026-10-22,Food & Dining,170,Card,Zomato dinner
+2026-10-22,Food & Dining,200,UPI,Swiggy order
+2026-10-22,Food & Dining,350,Card,Zomato dinner
+2026-10-23,Entertainment,450,Cash,Cinema tickets
+2026-10-23,Food & Dining,320,UPI,Restaurant lunch
+2026-10-24,Food & Dining,390,UPI,Cafe coffee
+2026-10-24,Transport,180,UPI,Ola cab
+2026-10-24,Health,300,UPI,Gym day pass
+2026-10-25,Food & Dining,₹364,Cash,Restaurant lunch
+2026-10-26,Transport,260,UPI,Metro card recharge
+2026-10-26,Transport,230,Net Banking,Petrol
+2026-10-26,Shopping,450,UPI,Myntra clothes
+2026-10-27,Food & Dining,110,Net Banking,Swiggy order
+2026-10-28,Food & Dining,420,UPI,Swiggy order
+2026-10-28,Shopping,710,Net Banking,Myntra clothes
+2026-10-29,Transport,230,UPI,Ola cab
+2026-10-29,Groceries,770,UPI,D-Mart groceries
+2026-11-01,Rent,8000,Net Banking,Monthly rent
+2026-11-01,bills & utilities ,230,UPI,Water bill
+2026-11-02,Transport,90,UPI,Ola cab
+2026-11-03,Transport,50,UPI,Ola cab
+2026-11-03,Education,430,UPI,Udemy course
+2026-11-05,Bills & Utilities,799,UPI,WiFi broadband
+2026-11-06,Food & Dining,310,Net Banking,Restaurant lunch
+2026-11-06,Groceries,680,UPI,Reliance Fresh
+2026-11-07,Transport,250,Card,Metro card recharge
+2026-11-07,Food & Dining,156,UPI,Zomato dinner
+2026-11-09,Groceries,690,UPI,D-Mart groceries
+2026-11-09,Food & Dining,390,UPI,Restaurant lunch
+2026-11-10,Entertainment,649,Card,Netflix subscription
+2026-11-10,Groceries,900,UPI,Big Bazaar
+2026-11-10,Entertainment,250,UPI,BookMyShow movie
+2026-11-11,Transport,230,UPI,Uber ride
+2026-11-12,Bills & Utilities,299,UPI,Mobile recharge
+2026-11-12,Groceries,abc,Cash,Big Bazaar
+2026-11-12,Shopping,2057,UPI,Flipkart purchase
+2026-11-13,Transport,250,UPI,Metro card recharge
+2026-11-13,FOOD & DINING,120,Net Banking,Cafe coffee
+2026-11-13,Food & Dining,210,Net Banking,Restaurant lunch
+2026-11-14,Transport,160,UPI,Uber ride
+2026-11-15,Food & Dining,559,Cash,Biryani
+2026-11-16,Bills & Utilities,600,UPI,DTH recharge
+2026-11-16,Health,380,UPI,Apollo pharmacy
+2026-11-16,shopping ,1836,UPI,Myntra clothes
+2026-11-17,Food & Dining,240,cash,Zomato dinner
+2026-11-20,GROCERIES,480,Cash,Reliance Fresh
+2026-11-20,,570,UPI,Gym day pass
+2026-11-20,Transport,140,Card,Ola cab
+2026-11-21,Food & Dining,351,UPI,Restaurant lunch
+2026-11-21,Transport,230,Cash,Uber ride
+2026-11-21,Shopping,2542,UPI,Amazon order
+2026-11-22,Food & Dining,520,UPI,Zomato dinner
+2026-11-24,Food & Dining,410,UPI,Cafe coffee
+2026-11-24,Education,290,Card,Udemy course
+2026-11-24,Transport,200,Card,Uber ride
+2026-11-25,Transport,270,UPI,Petrol
+2026-11-25,Bills & Utilities,₹180,UPI,Electricity bill
+2026-09-04,Food & Dining,310,UPI,Restaurant lunch
+2026-09-30,Transport,180,UPI,Uber ride
+2026-09-06,Shopping,-500,UPI,Refund
